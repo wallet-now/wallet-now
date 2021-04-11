@@ -16,6 +16,7 @@ assignees: ''
  - Website: [e.g.: https://autofarm.network]
 
 **OPTIONAL - Additional context**
+ - If you are the owner of that protocol, please send technical integration details. Alternatively, you can also send it via e-mail: walletnow.net@gmail.com (this will greatly speed-up the integration).
  - Sample wallet address with investments locked on that protocol: '0x...'
 
 Add any other context or screenshots about the integration request here.
