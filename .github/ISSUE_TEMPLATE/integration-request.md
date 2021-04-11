@@ -9,7 +9,7 @@ assignees: ''
 
 **MANDATORY:**
  - Did you search our open issues for this protocol already? [yes / no]
- - If you answered **no** above, please do so before opening a new requests!
+ - If you answered **no** above, please [search here](https://github.com/wallet-now/wallet-now/labels/integration) before opening a new requests!
 
 **Fill the following to speed-up integration**
  - Protocol: [e.g.: AutoFarm]
