@@ -3,7 +3,7 @@ name: Request new pool / vault
 about: Request new pool / vault for protocols which are already integrated with Wallet
   Now
 title: "[POOL]"
-labels: pool
+labels: enhancement,pool
 assignees: ''
 
 ---
