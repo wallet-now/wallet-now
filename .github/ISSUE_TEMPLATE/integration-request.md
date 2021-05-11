@@ -2,7 +2,7 @@
 name: Integration request
 about: Suggest a new protocol integration
 title: "[INTEGRATION]"
-labels: integration
+labels: enhancement,integration
 assignees: ''
 
 ---
