@@ -3,7 +3,9 @@
 
 ### WalletNow.net
 
-WalletNow consolidates all your crypto investments from multiple sources and aggregates them in a simple, clean and searchable table. It has advanced features such as: Telegram Bot, Time Machine, Active Monitoring with notifications of important changes on your Portfolio, among many others
+WalletNow is an advanced crypto portfolio monitoring solution for all types of investors. To get started, just paste a wallet address on [walletnow.net](walletnow.net) to see aggregated information about your wallet holdings, DeFi investments and NFTs from multiple chains.
+
+You will get access to detailed information from liquidity pools (such as Impermanent Loss), farms, stakes, lending markets, dividends, reflections, and much more! You can also easily manage your portfolio with the integrated swap and quick harvest for extra convenience.
 
 * **Open the app:** https://walletnow.net
 * **Documentation:** https://docs.walletnow.net
